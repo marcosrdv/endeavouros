@@ -1,0 +1,48 @@
+    1  exit
+    2  cd .config/
+    3  cd sway
+    4  ls -l
+    5  cp config config.0
+    6  sudo pacman -Syu vim neovim mc ranger base-devel
+    7  neofetch 
+    8  cd config.d/
+    9  ll
+   10  man zip
+   11  reboot
+   12  mkdir github
+   13  cd github/
+   14  git clone https://github.com/marcosrdv/linux-setup
+   15  ll
+   16  cd linux-setup/
+   17  ll
+   18  sudo pacman -Syu vim neovim mc ranger base-devel lsd gitg
+   19  sudo pacman -Syu vim neovim mc ranger base-devel lsd gitg --needed
+   20  lsd -l
+   21  ls -l
+   22  mc
+   23  cd arch/
+   24  ll
+   25  cat xfce-arch.sh 
+   26  sudo pacman -Syu base-devel lsd vim neovim neofetch mc xsensors ipython fpc libreoffice-fresh gimp opera opera-ffmpeg-codecs chromium netbeans codeblocks geany geany-plugins bluefish fceux desmume snes9x mgba-qt yabause-gtk vbam-wx dosbox higan mednafen snes9x-gtk gitg github-cli hexchat neofetch htop rxvt-unicode xterm alacritty kitty tilix ranger openssh lm_sensors cups meld ffmpeg ntp ttf-font-awesome ttf-jetbrains-mono ttf-hack ttf-inconsolata ttf-nerd-fonts-symbols-common cups opendesktop-fonts noto-fonts screenkey p7zip unrar unzip file-roller --needed 
+   27  sudo pacman -Syu base-devel lsd vim neovim neofetch mc xsensors ipython fpc libreoffice-fresh gimp opera opera-ffmpeg-codecs chromium netbeans codeblocks geany geany-plugins bluefish fceux desmume snes9x mgba-qt yabause-gtk vbam-wx dosbox higan mednafen snes9x-gtk gitg github-cli hexchat neofetch htop rxvt-unicode xterm alacritty kitty tilix ranger openssh lm_sensors cups meld ffmpeg ntp ttf-font-awesome ttf-jetbrains-mono ttf-hack ttf-inconsolata ttf-nerd-fonts-symbols-common cups opendesktop-fonts noto-fonts screenkey p7zip unrar unzip file-roller grim flameshot --needed 
+   28  neofetch 
+   29  gh
+   30  cd ..
+   31  cd ..
+   32  gh repo clone marcosrdv/endeavouros
+   33  git clone https://github.com/marcosrdv/endeavouros.git
+   34  cd linux-setup/
+   35  ll
+   36  rm -R eos/
+   37  alias
+   38  sudo pacman -Ss sublime
+   39  sudo pacman -Ss sublimetext
+   40  yay -Ss sublimetext
+   41  yay -Ss sublimetext
+   42  yay -Ss sublime
+   43  yay -Syu sublime-text-4
+   44  cd ..
+   45  meld
+   46  cd eos
+   47  cd endeavouros/
+   48  history > history.txt
