@@ -1,6 +1,0 @@
-#!/bin/bash
-
-conky -c ~/.i3/conky_shortcuts &&
-conky -c ~/.i3/conky &&
-
-exit 0
